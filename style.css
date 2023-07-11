@@ -79,10 +79,10 @@ justify-content: center;
 
 .book-name{
     font-family: 'Belanosima', sans-serif;
-font-family: 'Mada', sans-serif;
-font-family: 'Readex Pro', sans-serif;
+    font-family: 'Mada', sans-serif;
+    font-family: 'Readex Pro', sans-serif;
     text-decoration: none;
-    font-size:40px;
+    font-size: 40px;
     color: black;
     text-align: center;
 }
